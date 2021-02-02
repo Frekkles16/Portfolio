@@ -3,3 +3,52 @@
     width: 100%;
     height: auto;
 } */
+
+.w {
+    padding-top: 25%;
+    padding-left: 43%;
+    padding-right: 40%;
+}
+
+.portada_img {
+    background-image: url(../img/sol.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 2%;
+}
+
+.mi {
+    background-image: url(../img/barca.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 2%;
+}
+
+.logo {
+    padding-top: 18%;
+}
+
+.container-fluid {
+    padding: 0!important;
+}
+
+.nombre {
+    padding-left: 3%;
+}
+
+.menu {
+    padding-right: 2%;
+}
+
+.letra {
+    color: white!important;
+}
+
+.flecha {
+    margin-top: 12%;
+    margin-bottom: 0;
+    background-color: white;
+    width: 5%;
+}
