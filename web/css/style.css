@@ -19,7 +19,7 @@
 }
 
 .mi {
-    background-image: url(../img/barca.jpg);
+    background-image: url(../img/barca2.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,4 +51,8 @@
     margin-bottom: 0;
     background-color: white;
     width: 5%;
+}
+
+.naranja {
+    color: #f5a056;
 }
