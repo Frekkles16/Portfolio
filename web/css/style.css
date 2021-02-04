@@ -28,6 +28,7 @@
 
 .logo {
     padding-top: 18%;
+    margin-bottom: 18%;
 }
 
 .container-fluid {
@@ -56,3 +57,16 @@
 .naranja {
     color: #f5a056;
 }
+
+.barra_naranja
+{
+    background-color: #f5a056;
+}
+
+.text
+{
+    color: white;
+}
+
+
+
